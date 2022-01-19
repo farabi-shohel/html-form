@@ -1,0 +1,19 @@
+/* Html Form Design */
+.wrapper{
+	width: 40%;
+	margin: 0 auto;
+	border: 3px solid #ddd;
+	background: #81F1B2;
+}
+label{
+	font-size: 22px;
+	padding-left: 15px;
+}
+.first_name, .last_name, .email, .password, .message{
+	width: 93%;
+	border: 2px solid #ddd;
+	padding: 10px;
+	margin: 10px 15px;
+
+
+}
